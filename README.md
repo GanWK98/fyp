@@ -1,2 +1,3 @@
-# fyp
-fyp project
+# FYP
+FYP project
+from Gan Wai Keet
